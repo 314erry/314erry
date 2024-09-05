@@ -1,4 +1,10 @@
 ## Olá, amigo. 🤖
+
+<div style="display: inline_block;"<br/>
+  <a href="https://linktr.ee/314erry" target="_blank">
+  <img align="center" alt="linktree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
+</div>
 <br/>
 
 ![Pierry's GitHub stats](https://github-readme-stats.vercel.app/api?username=314erry&show_icons=true&theme=gruvbox&bg_color=00000000&locale=pt-br&rank_icon=github&text_color=fff)
