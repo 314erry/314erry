@@ -1,8 +1,8 @@
 ## Olá, amigo. 🤖
 
-![Pierry's GitHub stats](https://github-readme-stats.vercel.app/api?username=314erry&show_icons=true&theme=gruvbox&bg_color=00000000&locale=pt-br&rank_icon=github&text_color=fff)
+![Pierry's GitHub stats](https://github-readme-stats.vercel.app/api?username=314erry&show_icons=true&theme=gruvbox&bg_color=00000000&locale=pt-br&rank_icon=github&text_color=c493e9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=314erry&hide_progress=true&theme=gruvbox&bg_color=00000000&locale=pt-br&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=314erry&hide_progress=true&theme=gruvbox&bg_color=00000000&locale=pt-br&text_color=c493e9)
 
 ## Conhecimento
 
